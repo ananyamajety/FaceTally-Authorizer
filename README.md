@@ -1,4 +1,4 @@
-# Face_recognition_based_attendance_system
+# FaceTally-Authorizer
 A python GUI integrated attendance system using face recognition to take attendance.
 
 In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
@@ -30,3 +30,4 @@ HELP OPTION IN MENUBAR:
 
 CHANGE PASSWORD OPTION:
 ![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+
